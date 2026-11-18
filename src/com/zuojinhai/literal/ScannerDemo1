@@ -1,0 +1,19 @@
+package com.zuojinhai.literal;
+//找到Scanner
+import java.util.Scanner;
+public class Demo1 {
+    public static void main(String[] args) {
+    //让Scanner干活
+       Scanner sc=new Scanner(System.in);
+        /*接收键盘录入的整数
+        int num=sc.nextInt();
+        System.out.println("您输入的整数是"+num);*/
+        /*接收键盘录入的小数
+        double num2=sc.nextDouble();
+        System.out.println("你输入的小数是："+num2);*/
+        /*接收键盘录入的文本（字符串）
+        String str=sc.next();
+        System.out.println("你输入的文本是："+str);*/
+
+    }
+}
